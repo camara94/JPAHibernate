@@ -1,4 +1,4 @@
-package com.camaratek.dao;
+package com.camaratek.model;
 
 import java.io.Serializable;
 
