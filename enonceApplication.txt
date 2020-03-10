@@ -1,0 +1,13 @@
+On souhaite créer une application qui permet de :
+. Ajouter un produit
+. Consulter tous les produits
+. Consulter les produits dont le nom contient un mot clé
+. Consulter un produit
+. Mettre à jour un produit
+. Supprimer un produit
+Un produit est definit par:
+. Sa référence de type Long (auto incrémené)
+. Sa désignation de type String
+. Son prix de type double
+. Sa quantité en stock de type int
+On suppose que les produits sont stockés dans une base de données MySQL 
