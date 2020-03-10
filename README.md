@@ -39,7 +39,7 @@ C'est une classe qui indique au code sql la syntaxe d'un **SGDB** qu'il faut uti
 # Différence entre JPA et Hibernate 
 
 * **JPA** est une spécification Java EE dont tous les Framework **ORM** devraient respecter 
-* Alors **Hibernate est un Framework **ORM** java qui implement les spécification **JPA**
+* Alors **Hibernate** est un Framework **ORM** java qui implement les spécification **JPA**
 
 # Un Java Bean
 C'est une classe sérialisable avec les attributs privé, un constructuer sans paramètre et des getters et setters
